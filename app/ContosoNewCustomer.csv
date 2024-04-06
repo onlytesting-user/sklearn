@@ -1,0 +1,50 @@
+CustomerName;Age;MaritalStatus;Gender;YearlyIncome;TotalChildren;NumberChildrenAtHome;Education;Occupation;HouseOwnerFlag;NumberCarsOwned;CustomerType
+Stanley Rodriguez;62;M;M;10000,00;1;0;Bachelors;Manual;1;0;Person
+Adriana Raman;63;S;F;10000,00;1;0;Bachelors;Manual;0;0;Person
+Haley Bell;62;S;F;20000,00;1;0;Graduate Degree;Clerical;0;0;Person
+Terrance Fernandez;63;M;M;20000,00;1;0;Graduate Degree;Clerical;1;0;Person
+Laura Zhu;63;M;F;20000,00;1;0;Graduate Degree;Clerical;1;0;Person
+Rafael Cai;63;S;M;20000,00;1;0;Graduate Degree;Clerical;1;0;Person
+Adriana Patel;88;M;F;20000,00;1;0;Graduate Degree;Clerical;1;0;Person
+Damien Yuan;66;S;M;10000,00;1;0;Bachelors;Manual;1;0;Person
+Gabriel Phillips;68;S;M;10000,00;2;0;Partial College;Manual;1;0;Person
+Beth Blanco;68;M;F;20000,00;1;0;Bachelors;Clerical;1;0;Person
+Bonnie Lal;87;S;F;10000,00;2;0;Bachelors;Clerical;1;1;Person
+Jamie Ma;87;S;F;20000,00;1;0;Graduate Degree;Clerical;0;0;Person
+Lindsay Deng;86;S;F;10000,00;2;0;Bachelors;Clerical;0;1;Person
+Lindsey Yuan;83;S;F;20000,00;1;0;Partial College;Manual;1;0;Person
+Laura Chen;83;S;F;30000,00;1;0;Bachelors;Clerical;1;0;Person
+Bradley Chande;82;S;M;10000,00;2;0;Partial College;Manual;1;1;Person
+Geoffrey Lopez;82;S;M;10000,00;3;0;Partial College;Manual;0;1;Person
+Meredith Romero;45;S;F;10000,00;0;0;Partial College;Manual;1;1;Person
+Victor Vazquez;44;M;M;20000,00;0;0;Bachelors;Clerical;1;0;Person
+Victoria Bradley;46;M;F;10000,00;0;0;Partial College;Manual;1;1;Person
+Dawn Zeng;46;M;F;10000,00;0;0;Partial College;Manual;1;1;Person
+Lindsay She;46;S;F;10000,00;0;0;Partial College;Manual;1;1;Person
+Cynthia Kapoor;46;S;F;10000,00;0;0;Partial College;Manual;0;1;Person
+Danny Moreno;47;S;M;10000,00;0;0;High School;Manual;1;1;Person
+Marco Malhotra;47;S;M;10000,00;0;0;High School;Manual;0;1;Person
+Andres Chander;47;M;M;10000,00;0;0;High School;Manual;0;2;Person
+Colin Xu;47;M;M;10000,00;0;0;High School;Manual;1;2;Person
+Clinton Hernandez;45;S;M;20000,00;0;0;Bachelors;Clerical;1;0;Person
+Lucas Gonzales;46;S;M;10000,00;1;1;High School;Manual;1;0;Person
+Eugene Gao;47;S;M;10000,00;1;1;High School;Manual;0;0;Person
+Roy Gill;47;S;M;20000,00;0;0;Partial College;Manual;1;0;Person
+Lance Jimenez;81;M;M;30000,00;1;0;Bachelors;Clerical;1;0;Person
+Monica Mehta;63;M;F;30000,00;4;0;Graduate Degree;Clerical;1;0;Person
+Jacqueline Morris;63;M;F;30000,00;4;0;Graduate Degree;Clerical;0;0;Person
+Dominique Saunders;63;M;F;30000,00;3;0;Graduate Degree;Clerical;0;0;Person
+Nathan Roberts;64;S;M;10000,00;1;1;High School;Manual;0;1;Person
+Dana Ortega;64;S;F;10000,00;1;1;High School;Manual;0;1;Person
+Lacey Sharma;64;M;F;10000,00;1;1;High School;Manual;0;1;Person
+Carmen Subram;64;S;F;20000,00;1;1;Partial College;Manual;0;0;Person
+Jaime Raje;65;M;M;20000,00;2;0;Partial College;Manual;0;1;Person
+Jared Ward;65;S;M;20000,00;2;0;Partial College;Manual;0;1;Person
+Elizabeth Bradley;65;M;F;20000,00;2;0;Partial College;Manual;0;1;Person
+Neil Ruiz;65;M;M;20000,00;2;0;Partial College;Manual;0;1;Person
+Darren Carlson;65;S;M;30000,00;3;0;Graduate Degree;Clerical;1;0;Person
+Tommy Tang;66;M;M;30000,00;1;0;Graduate Degree;Clerical;1;0;Person
+Nina Raji;64;S;F;30000,00;3;0;Graduate Degree;Clerical;1;0;Person
+Ivan Suri;64;S;M;30000,00;3;0;Graduate Degree;Clerical;0;0;Person
+Clayton Zhang;65;M;M;30000,00;3;0;Bachelors;Clerical;1;0;Person
+Jésus Navarro;65;M;M;30000,00;0;0;Bachelors;Clerical;1;0;Person
